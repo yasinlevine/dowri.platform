@@ -98,7 +98,8 @@
    "title": "بشقاب دیپ بادمجان دودی و پیازچه",
    "desc": "Smoked Eggplant & Scallion Dip Plate",
    "price": "505",
-   "img": "img/s1-mvij6vpa.jpg"
+   "img": "img/s1-mvikhgcb.jpg",
+   "imgL": "img/s1-mvikhgcb-L.jpg"
   },
   {
    "id": "s2",
@@ -106,7 +107,8 @@
    "title": "بشقاب دیپ سیب‌زمینی و پیازچه",
    "desc": "Potato & Scallion Dip Plate",
    "price": "495",
-   "img": "img/s2-mvij6z8s.jpg"
+   "img": "img/s2-mvikhgcb.jpg",
+   "imgL": "img/s2-mvikhgcb-L.jpg"
   },
   {
    "id": "s3",
@@ -114,7 +116,8 @@
    "title": "بشقاب دیپ حمص و هویج کاراملی",
    "desc": "Hummus & Caramelized Carrot Dip Plate",
    "price": "495",
-   "img": "img/s3-mvij70x6.jpg"
+   "img": "img/s3-mvikhgcb.jpg",
+   "imgL": "img/s3-mvikhgcb-L.jpg"
   },
   {
    "id": "s4",
@@ -122,7 +125,8 @@
    "title": "بشقاب دیپ پاپریکا دودی",
    "desc": "Smoked Paprika Dip Plate",
    "price": "485",
-   "img": "img/s4-mvij737e.jpg"
+   "img": "img/s4-mvikhgcb.jpg",
+   "imgL": "img/s4-mvikhgcb-L.jpg"
   }
  ],
  "logos": {}
