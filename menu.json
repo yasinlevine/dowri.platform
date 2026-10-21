@@ -1,0 +1,129 @@
+{
+ "v": 1,
+ "items": [
+  {
+   "id": "c1",
+   "cat": "coffee",
+   "title": "اسپرسو",
+   "desc": "Espresso",
+   "price": "110/125"
+  },
+  {
+   "id": "c2",
+   "cat": "coffee",
+   "title": "آمریکانو",
+   "desc": "Americano",
+   "price": "165/175"
+  },
+  {
+   "id": "c3",
+   "cat": "coffee",
+   "title": "لاته",
+   "desc": "Latte",
+   "price": "210/226"
+  },
+  {
+   "id": "c4",
+   "cat": "coffee",
+   "title": "رگولار",
+   "desc": "Regular",
+   "price": "200"
+  },
+  {
+   "id": "c5",
+   "cat": "coffee",
+   "title": "آیس لانه نارگیل",
+   "desc": "Ice Coconut Latte",
+   "price": "225/240"
+  },
+  {
+   "id": "c6",
+   "cat": "coffee",
+   "title": "آیس تونیک",
+   "desc": "Ice Tonic",
+   "price": "175/185"
+  },
+  {
+   "id": "h1",
+   "cat": "hot",
+   "title": "چای",
+   "desc": "Tea",
+   "price": "110"
+  },
+  {
+   "id": "h2",
+   "cat": "hot",
+   "title": "چای لاته",
+   "desc": "Tea Latte",
+   "price": "225"
+  },
+  {
+   "id": "h3",
+   "cat": "hot",
+   "title": "دمنوش کویین بری",
+   "desc": "Queen Berry Herbal Tea",
+   "price": "290"
+  },
+  {
+   "id": "d1",
+   "cat": "cold",
+   "title": "لیموناد",
+   "desc": "Lemonade",
+   "price": "140"
+  },
+  {
+   "id": "d2",
+   "cat": "cold",
+   "title": "شربت دارچین",
+   "desc": "Cinnamon Syrup",
+   "price": "175"
+  },
+  {
+   "id": "d3",
+   "cat": "cold",
+   "title": "شربت بیدمشک",
+   "desc": "Willow Bark Syrup",
+   "price": "150"
+  },
+  {
+   "id": "d4",
+   "cat": "cold",
+   "title": "ماکتیل سیب و چای",
+   "desc": "Apple & Tea Mocktail",
+   "price": "310"
+  },
+  {
+   "id": "s1",
+   "cat": "dip",
+   "title": "بشقاب دیپ بادمجان دودی و پیازچه",
+   "desc": "Smoked Eggplant & Scallion Dip Plate",
+   "price": "505",
+   "img": "img/s1-mvij6vpa.jpg"
+  },
+  {
+   "id": "s2",
+   "cat": "dip",
+   "title": "بشقاب دیپ سیب‌زمینی و پیازچه",
+   "desc": "Potato & Scallion Dip Plate",
+   "price": "495",
+   "img": "img/s2-mvij6z8s.jpg"
+  },
+  {
+   "id": "s3",
+   "cat": "dip",
+   "title": "بشقاب دیپ حمص و هویج کاراملی",
+   "desc": "Hummus & Caramelized Carrot Dip Plate",
+   "price": "495",
+   "img": "img/s3-mvij70x6.jpg"
+  },
+  {
+   "id": "s4",
+   "cat": "dip",
+   "title": "بشقاب دیپ پاپریکا دودی",
+   "desc": "Smoked Paprika Dip Plate",
+   "price": "485",
+   "img": "img/s4-mvij737e.jpg"
+  }
+ ],
+ "logos": {}
+}
